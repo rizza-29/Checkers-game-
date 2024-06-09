@@ -1,0 +1,6 @@
+﻿  Assembling Project.asm...
+Project.asm(144): error A2008: syntax error : in instruction
+Project.asm(201): error A2101: cannot add two relocatable labels
+Project.asm(249): error A2101: cannot add two relocatable labels
+Project.asm(302): error A2006: undefined symbol : Enemies
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Project.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /TaProject.asm" exited with code 1.
